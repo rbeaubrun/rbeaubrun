@@ -2,9 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hi, my name is Ruth. Management consultant and data analyst with expertise in data cleaning, modeling, and visualization.</title>
-</head>
+
 <body>
 
 <h1>Hi, my name is Ruth</h1>
