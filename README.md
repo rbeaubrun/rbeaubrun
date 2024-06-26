@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Projects</h2>
-<p>Welcome to my portfolio, where I showcase my projects.</p>
+<p>Welcome to my <li><a href="https://rbeaubrun.github.io/portfolio-projects-updated-/">portfolio</a></li>, where I showcase my projects.</p>
 
 <h2>Tools</h2>
 <ul>
