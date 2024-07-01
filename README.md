@@ -43,6 +43,12 @@
     <li>Visualization: PowerBI, Tableau</li>
 </ul>
 
+<h2>I'm Currently Learning</h2>
+<ul>
+    <li>Window functions and CTEs in SQL</li>
+    <li>Python Basics (Python for Loop)</li>
+</ul>
+
 <h2>Connect with Me</h2>
 <ul>
     <li><a href="https://www.linkedin.com/in/ruth-beaubrun/">LinkedIn</a></li>
