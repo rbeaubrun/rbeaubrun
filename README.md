@@ -23,7 +23,7 @@
     <li><a href="https://drive.google.com/file/d/18TgeLkWFGVBKOxSmmCfmMS6_8UnKAiym/view">Udemy - The Complete SQL Bootcamp </a></li>
     <li><a href="https://drive.google.com/file/d/14IixEDi8M-_yI9UGqUBlLHPbRl4ROiqI/view">Udemy - Alteryx Bootcamp </a></li>
     <li><a href="https://drive.google.com/file/d/1prO3dCo1LhokMiVHaAr-4p9ORxBrB9Gq/view">Udemy - 15 Days of Power BI - Complete Mircosoft Power BI Bootcamp </a></li>
-    <li><a href="https://drive.google.com/file/d/1GfFTRHDpm-Mr814BfEhcrZR9ch1hVxOn/view">Microsoft Excel: Advanced Excel Formulas and Functions </a></li>
+    <li><a href="https://drive.google.com/file/d/1GfFTRHDpm-Mr814BfEhcrZR9ch1hVxOn/view">Udemy - Microsoft Excel: Advanced Excel Formulas and Functions </a></li>
 </ul>
 
 <h2>Skills</h2>
