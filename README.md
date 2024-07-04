@@ -53,6 +53,7 @@
 <h2>Connect with Me</h2>
 <ul>
     <li><a href="https://www.linkedin.com/in/ruth-beaubrun/">LinkedIn</a></li>
+    <li><a href="https://www.hackerrank.com/profile/ruthbeau129">HackerRank</a></li>
 </ul>
 
 </body>
