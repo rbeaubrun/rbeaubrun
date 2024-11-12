@@ -40,15 +40,15 @@
 
 <h2>Tools</h2>
 <ul>
-    <li>Language: SQL, HTML</li>
+    <li>Language: Python, SQL, HTML</li>
     <li>Database: PostgreSQL, MySQL</li>
     <li>Visualization: PowerBI, Tableau</li>
 </ul>
 
 <h2>I'm Currently Learning</h2>
 <ul>
-    <li>Window functions and CTEs in SQL</li>
-    <li>Python Basics (Python for Loop)</li>
+    <li>Query Optimization and Complex Window Functions in SQL</li>
+    <li>Pandas and Matplotlib for dat analysis and visualization in Python</li>
 </ul>
 
 <h2>Connect with Me</h2>
