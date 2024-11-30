@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hi, my name is Ruth</h1>
-<p>Data analyst in Strategic Operations with expertise in data cleaning, modeling, and visualization.</p>
+<p>Data Analyst in Strategic Operations with expertise in data cleaning, modeling, and visualization.</p>
 
 <h2>Get to Know Me</h2>
 <ul>
