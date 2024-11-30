@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hi, my name is Ruth</h1>
-<p>Management consultant and data analyst with expertise in data cleaning, modeling, and visualization.</p>
+<p>Data analyst in Strategic Operations with expertise in data cleaning, modeling, and visualization.</p>
 
 <h2>Get to Know Me</h2>
 <ul>
@@ -15,7 +15,7 @@
     <li>I am the youngest of 9 siblings</li>
     <li>I enjoy gaming, notable genres: Indie and Slice of Life</li>
     <li>I was born and raised in Houston, TX</li>
-    <li>One of my major goals this year is to run my first 5K</li>
+    <li>I have completed one of my major goals this year which was to run my first 5K</li>
 </ul>
 
 <h2>Personal Development Certifications</h2>
@@ -30,9 +30,10 @@
 
 <h2>Skills</h2>
 <ul>
+    <li>Data Analysis using Python (Pandas, NumPy, MatplotLib, Seaborn) </li>
     <li>Querying data using SQL</li>
     <li>Developing dashboards on Tableau and PowerBI</li>
-    <li>Data analysis and reporting using Google Sheets, Excel, and Power Query</li>
+    <li>Reporting using Google Sheets, Excel, and Powerpoint</li>
 </ul>
 
 <h2>Projects</h2>
@@ -42,14 +43,9 @@
 <ul>
     <li>Language: Python, SQL, HTML</li>
     <li>Database: PostgreSQL, MySQL</li>
-    <li>Visualization: PowerBI, Tableau</li>
+    <li>Visualization: PowerBI, Tableau, Looker </li>
 </ul>
 
-<h2>I'm Currently Learning</h2>
-<ul>
-    <li>Query Optimization and Complex Window Functions in SQL</li>
-    <li>Pandas and Matplotlib for dat analysis and visualization in Python</li>
-</ul>
 
 <h2>Connect with Me</h2>
 <ul>
