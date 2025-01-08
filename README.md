@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hi, my name is Ruth</h1>
-<p>Business Data Analyst in Health with expertise in data cleaning, modeling, and visualization.</p>
+<p>Business Data Analyst in management consulting with expertise in data cleaning, analysis, modeling, and visualization across the Healthcare and Life Sciences industry.</p>
 
 <h2>Get to Know Me</h2>
 <ul>
